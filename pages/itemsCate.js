@@ -28,7 +28,6 @@ const ItemCate = ({ itemss }) => {
                     </div>
                 </div>
             </section>
-
         </>
     )
 }
